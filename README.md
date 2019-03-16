@@ -27,6 +27,6 @@ Action
     2) Selected 1-norm measure by tring diverse distance measures
     3) Used Ensemble Technique
 Result
-    Received 8.27 / 10.00 points, which was ranked as the performance of top 25%.
+    Received 8.27 / 10.00 points. Ranked as the performance above the upper quartile.
 </pre>
 
