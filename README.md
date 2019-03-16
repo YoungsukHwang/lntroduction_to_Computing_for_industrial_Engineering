@@ -1,5 +1,6 @@
 # lntroduction_to_Computing_for_industrial_Engineering
-Course taken in Spring 2015  </t>  Grade received : A+
+Course taken in Spring 2015</br>
+Grade received : A+
 
 Course Objectives: This class introduces computer science to Industrial Engineering students. Topics
 include computer architecture, operating system, communication, Internet, algorithms, programming languages, software engineering, data structures, database, computer graphics, artificial intelligence, and computing theory. Basic programming concepts are reviewed, and some assignments are given for practice
@@ -7,15 +8,16 @@ include computer architecture, operating system, communication, Internet, algori
 Textbook: “Computer Science: An Overview,” Eleventh Edition, Glenn Brookshear, Addison Wesley
 </br>
 
-[Assign 4]</br>
-Problem</br>
-    Create an informative tag-cloud by crawling a website (Jsoup library)</br>
-Action</br>
-    Crawled a wiki-page 'Data_mining' from wikipedia.org.</br>
-    Extracted/Sorted words with hyperlinks. -> a-tag : div[id=mw-content-text]</br>
-    Generated a tag-cloud.</br>
-Result</br>
-    Successfully created the tag-cloud.</br>
+<pre>
+[Assign 4]
+Problem
+    Create an informative tag-cloud by crawling a website (Jsoup library)
+Action<
+    Crawled a wiki-page 'Data_mining' from wikipedia.org.
+    Extracted/Sorted words with hyperlinks. -> a-tag : div[id=mw-content-text]
+    Generated a tag-cloud.
+Result
+    Successfully created the tag-cloud.
     
 [Assign 5] 
 Problem
@@ -26,7 +28,5 @@ Action
     3) Used Ensemble Technique
 Result
     Received 8.27 / 10.00 points, which was ranked as the performance of top 25%.
-
-
-
+</pre>
 
